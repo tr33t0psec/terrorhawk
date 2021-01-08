@@ -1,3 +1,3 @@
 # terrorhawk
 #all my non-stuff
-#infosec and linx related catch-all
+#infosec and linux related catch-all

@@ -1,3 +1,3 @@
 # terrorhawk
-#all my non-stuff
-#infosec and linux related catch-all
+My Infosec and Experimental Scripting page. 
+I am a hacker, not a developer. 
